@@ -1,4 +1,4 @@
- Slider.JS
+Slider.JS
 
 •	Used to implement Slider module. 
 •	IFFE and Modular pattern is used to expose various functions. 
